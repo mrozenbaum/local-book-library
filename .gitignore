@@ -1,0 +1,11 @@
+.DS_STORE
+node_modules
+bower_components
+__pycache__
+*.pyc
+bin
+obj
+*.db
+*.sqlite3
+website/migrations/*.py
+media/images
